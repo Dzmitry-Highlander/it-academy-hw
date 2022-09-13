@@ -11,7 +11,7 @@ public class Task3 {
             helloPhrase = "Доброе утро!";
         } else if (timeOfDay >= 13 && timeOfDay <= 18) {
             helloPhrase = "Добрый день!";
-        } else if (timeOfDay >= 19 && timeOfDay <= 24) {
+        } else if (timeOfDay >= 19 && timeOfDay <= 23) {
             helloPhrase = "Добрый вечер!";
         } else {
             helloPhrase = "Нет такого времени суток";
