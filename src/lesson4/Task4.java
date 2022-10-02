@@ -7,7 +7,7 @@ public class Task4 {
         int multiplicationResult;
         String multiplicationTable = "";
 
-        while (firstNumber <= 10){
+        while (firstNumber <= 10) {
             while (secondNumber <= 10) {
                 multiplicationTable += firstNumber + " x ";
                 multiplicationTable += secondNumber + " = ";
